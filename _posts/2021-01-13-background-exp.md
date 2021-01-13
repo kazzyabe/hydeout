@@ -2,7 +2,7 @@
 layout: post
 title: "Work Experiences"
 categories:
-  - Backgrounds
+  - Background
 tags:
   - Experiences
   - Backgrounds

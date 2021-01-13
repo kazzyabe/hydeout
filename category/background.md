@@ -3,4 +3,4 @@ layout: category
 title: Backgrounds
 ---
 
-Another sample category page.
+Pages for backgrounds are posted below.
