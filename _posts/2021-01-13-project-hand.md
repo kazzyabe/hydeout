@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Antidisestablishmentarianism"
+title: "POS Tagger With Hand-Crafted Features"
 categories:
   - Project
 tags:
@@ -10,15 +10,5 @@ tags:
   - tagger
 ---
 
-This post title has a long word that could potentially overflow the content area.
-
-A few things to check for:
-
-  * Non-breaking text in the title should have no adverse effects on layout or functionality.
-  * Check the browser window / tab title.
-
-The following CSS property will help you support non-breaking text.
-
-```css
-word-wrap: break-word;
-```
+### [A POS Tagger with hand-crafted features](https://github.com/kazzyabe/POS_Handcrafted_feat_NN)
+This is a slight extension of [a POS tagger](https://becominghuman.ai/part-of-speech-tagging-tutorial-with-the-keras-deep-learning-library-d7f93fa05537), implemented with tensorflow. I adopted the parser to data with conllu format.
