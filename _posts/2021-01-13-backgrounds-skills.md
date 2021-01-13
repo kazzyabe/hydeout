@@ -2,7 +2,7 @@
 layout: post
 title: "Skills Summary"
 categories:
-  - Background
+  - Backgrounds
 tags:
   - Skills
   - Backgrounds

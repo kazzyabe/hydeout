@@ -2,7 +2,7 @@
 layout: post
 title: "Educations"
 categories:
-  - Background
+  - Backgrounds
 tags:
   - Educations
   - Backgrounds
