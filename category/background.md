@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Background
+title: Backgrounds
 ---
 
 Another sample category page.

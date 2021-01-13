@@ -2,10 +2,10 @@
 layout: post
 title: "Educations"
 categories:
-  - Background
+  - Backgrounds
 tags:
   - Educations
-  - Background
+  - Backgrounds
 ---
 
 ### Indiana University / Master of Science / Sep 2019-Present

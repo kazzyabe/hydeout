@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Word Experiences"
+title: "Work Experiences"
 categories:
-  - Background
+  - Backgrounds
 tags:
   - Experiences
-  - Background
+  - Backgrounds
   - Work
 ---
 

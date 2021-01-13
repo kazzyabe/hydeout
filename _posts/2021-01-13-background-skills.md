@@ -2,10 +2,10 @@
 layout: post
 title: "Skills Summary"
 categories:
-  - Background
+  - Backgrounds
 tags:
   - Skills
-  - Background
+  - Backgrounds
 ---
 
 **Programming Languages**: C, C++, JavaScript, PHP, Python, Ruby
