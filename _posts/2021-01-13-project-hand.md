@@ -2,15 +2,12 @@
 layout: post
 title: "Antidisestablishmentarianism"
 categories:
-  - Edge Case
+  - Project
 tags:
-  - content
-  - css
-  - edge case
-  - html
-  - layout
-  - title
-last_modified_at: 2017-03-09T14:10:02-05:00
+  - POS
+  - part of speech
+  - elmo
+  - tagger
 ---
 
 This post title has a long word that could potentially overflow the content area.
