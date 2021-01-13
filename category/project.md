@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Project
+title: Projects
 ---
 
 Projects get listed below here.

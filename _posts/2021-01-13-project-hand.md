@@ -2,7 +2,7 @@
 layout: post
 title: "POS Tagger With Hand-Crafted Features"
 categories:
-  - Project
+  - Projects
 tags:
   - POS
   - part of speech
