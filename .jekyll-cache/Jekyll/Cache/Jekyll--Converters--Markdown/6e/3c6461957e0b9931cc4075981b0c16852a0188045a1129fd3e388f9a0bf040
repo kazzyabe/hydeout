@@ -1,0 +1,4 @@
+I"]<p><a href="https://github.com/kazzyabe/POS_Handcrafted_feat_NN">Click here for the code</a>.</p>
+
+<p>This is a slight extension of <a href="https://becominghuman.ai/part-of-speech-tagging-tutorial-with-the-keras-deep-learning-library-d7f93fa05537">a POS tagger</a>, implemented with tensorflow. I adopted the parser to data with conllu format.</p>
+:ET

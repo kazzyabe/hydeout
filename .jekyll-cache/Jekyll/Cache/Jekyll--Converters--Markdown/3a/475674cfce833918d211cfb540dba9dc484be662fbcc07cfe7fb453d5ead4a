@@ -1,0 +1,6 @@
+I"¤<p><a href="https://github.com/kazzyabe/graph-parser">Click here for the code</a>.</p>
+
+<p>This parser extended <a href="https://github.com/ftyers/conllu-perceptron-tagger.git">a perceptron part-of-speech tagger</a> into dependency parser. It works on any of universal dependency corpus in a conllu format.</p>
+
+<p>The parser first scores each possible edge using perceptron, and figure out a maximum spanning tree.</p>
+:ET

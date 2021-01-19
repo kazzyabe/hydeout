@@ -1,0 +1,4 @@
+I"O<p><a href="https://github.com/kazzyabe/POS_Elmo">Click here for the code</a></p>
+
+<p>This is a extension of <a href="/projects/2021/01/13/projects-hand.html">the POS tagger with hand-crafted features</a>. Instead of using handcrafted features, Elmo embeddings are used for representing words. Implemented with tensorflow as well.</p>
+:ET
