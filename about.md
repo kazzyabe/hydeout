@@ -4,7 +4,9 @@ title: About
 sidebar_link: true
 ---
 <img src="/assets/img/IMG_0772.JPG" alt="Mount Fuji">
-I'm **Kazuki Yabe**, a **master** student in **Computational Linguistics** at **Indiana University Bloomington**. I'm from Japan, and I can speack Japanese and English. The picture of Mt. Fuji is posted above to share the beutiful holy mountain when I went back to Japan in 2019. My expected graduation would be May, 2020, and I will have OPT for three years since my major is in the STEM program. I'm looking for a job which meets my interests (NLP, ML, Linguistics).
+I'm **Kazuki Yabe**, a **master** student in **Computational Linguistics** at **Indiana University Bloomington**. I'm from Japan, and I can speack Japanese and English. The picture of Mt. Fuji is posted above to share a view of my home country. I toke it when I was back in Japan in 2019. 
+
+My expected graduation would be May, 2020, and I will have OPT for three years since my major is in the STEM program. I'm looking for a job which meets my interests (NLP, ML, Linguistics).
 
 Before comming to Indiana, I was in Canada for about 7 years completing my high school and university. I majored in **Computer Science** and **Linguistcs** at **Simon Fraser University**, and learnt basics of programming and natural language, including algorithm complexity, recursion, searching, syntax, phonetics and etc.
 
