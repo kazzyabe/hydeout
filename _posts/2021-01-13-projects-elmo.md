@@ -10,6 +10,6 @@ tags:
   - tagger
 ---
 
-[Click here for the code](https://github.com/kazzyabe/POS_Elmo)
+A part of speech tagger implemented in Python with TensorFlow using Universal Dependency corpus. Used pretrained Elmo Embeddings through TensorFlow Hub. The model includes Elmo Embeddings layer, Bidirectional LSTM layer, and a softmax dense layer. If an appropriate Elmo embedding is loaded, the tagger can be trained on any languages which have Universal Dependency corpus. Used Keras for incorporating some layers. Evaluated the model by F1 scores.
 
-This is a extension of [the POS tagger with hand-crafted features](/projects/2021/01/13/projects-hand.html). Instead of using handcrafted features, Elmo embeddings are used for representing words. Implemented with tensorflow as well.
+[Click here for the code](https://github.com/kazzyabe/POS_Elmo)
